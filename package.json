@@ -1,0 +1,9 @@
+{
+  "name": "style-setting",
+  "version": "0.0.1",
+  "repository": "https://github.com/wooseongDev/style-setting.git",
+  "license": "MIT",
+  "devDependencies": {
+    "prettier": "2.6.2"
+  }
+}
