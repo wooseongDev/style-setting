@@ -3,6 +3,9 @@
   "version": "0.0.1",
   "repository": "https://github.com/wooseongDev/style-setting.git",
   "license": "MIT",
+  "scripts": {
+    "prettier": "prettier --write ."
+  },
   "devDependencies": {
     "prettier": "2.6.2"
   }

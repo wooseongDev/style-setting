@@ -5,3 +5,7 @@
 eslint 와 prettier 를 사용합니다.
 
 기본적으로 TypeScript 를 사용합니다.
+
+### Prettier
+
+- 기본 옵션도 표기합니다.
