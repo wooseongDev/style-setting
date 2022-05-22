@@ -4,7 +4,7 @@
 
 eslint 와 prettier 를 사용합니다.
 
-기본적으로 TypeScript 를 사용합니다.
+기본적으로 `Next.js` 와 `TypeScript` 를 사용합니다.
 
 ### Prettier
 
